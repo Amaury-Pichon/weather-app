@@ -1,4 +1,4 @@
-const api_key = "16eb34753ce85f89e9035bcfded86588";
+const api_key = "insérez votre clé API ici";
 
 let apiCall;
 
